@@ -61,18 +61,16 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1173&flavour=hd
 
 #EXTINF:0,29 - RTL9 HD
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=210&flavour=hd
-#EXTINF:0,29 - RTL9 (bas débit)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=210&flavour=ld
-#EXTINF:0,30 - Mosaïque chaines locales HD
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1112&flavour=hd
+
+
 #EXTINF:0,36 - QVC HD
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1121&flavour=hd
 
 
 #EXTINF:0,37 - Game One HD
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=220&flavour=hd
-#EXTINF:0,37 - Game One 
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=220&flavour=sd
+
+
 #EXTINF:0,38 - TEVA (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=404&flavour=ld
 #EXTINF:0,39 - AB 1 HD
@@ -85,14 +83,14 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=242&flavour=hd
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=242&flavour=ld
 #EXTINF:0,58 - Paramount Channel HD
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1050&flavour=hd
-#EXTINF:0,58 - Paramount Channel (bas débit)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1050&flavour=ld
+
+
 #EXTINF:0,64 - M6 Music (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=430&flavour=ld
 #EXTINF:0,67 - Trace Urban HD
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=228&flavour=hd
-#EXTINF:0,67 - Trace Urban 
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=228&flavour=sd
+
+
 #EXTINF:0,68 - Trace Tropical HD
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=769&flavour=hd
 #EXTINF:0,68 - Trace Tropical 
